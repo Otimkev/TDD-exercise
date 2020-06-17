@@ -5,7 +5,6 @@
  * MIKE REMBO
  */
 
- 
 class Fibonacci{
  fibonacci(n){
   if(isNaN(n)) return console.log('invalid input!')
